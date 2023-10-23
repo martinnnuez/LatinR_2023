@@ -4,14 +4,11 @@
 
 # **Análisis de contaminantes atmosféricos con R**
 
-## [LatinR](https://latin-r.com/)
+## [LatinR 2023](https://latin-r.com/)
 
 * Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
 
 ***Edición 2023*** 
-Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo
-18 al 20 de octubre de 2023 - Montevideo, Uruguay
- Facultad de Ciencias Económicas y de Administración, UDELAR
 
 Comparto mi trabajo títulado: **"Análisis de contaminantes atmosféricos con R"**, presentado durante los [LatinR](https://latin-r.com/) desarrollados desde el 18 al 20 de octubre de 2023 en la Facultad de Ciencias Económicas y de Administración de la Universidad de la República Oriental del Uruguay en Montevideo, Uruguay.
 
